@@ -1,0 +1,40 @@
+#div1{
+    position: relative;
+    width: 100%;
+}
+#span1{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    font-size: larger;
+}
+#span2{
+    position: absolute;
+    top: 0%;
+    left: 72%;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    font-size: larger;
+}
+#span3{
+    position: absolute;
+    top: 93%;
+    left: 0%;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    font-size: larger;
+}
+#span4{
+    position: absolute;
+    top: 92%;
+    left: 71%;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    font-size: larger;
+}

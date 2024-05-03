@@ -1,0 +1,67 @@
+#div1{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    height: 40px;
+    background-color: white;
+    z-index: 1;
+}
+#div2{
+    background-image: url(https://www.w3schools.com/w3images/architect.jpg);
+    height: 700px;
+    width: 100%;
+    position: relative;
+    margin-top: 100px;
+}
+#span1{
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    background-color: rgb(69, 68, 68);
+    color: white;
+    font-size: xx-large;
+    padding: 10px;
+
+}
+#span5{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: xx-large;
+    color: rgb(61, 60, 60);
+    padding: 10px;
+}
+#div3{
+    position: relative;
+    left: 20px;
+    display: inline-block;
+    margin-left: 15px;
+}
+#span2{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    padding: 5px;
+    font-size: larger;
+    background-color: black;
+    color: white;
+}
+#div4{
+    height: 150px;
+    width: 250px;
+    padding: 15px;
+    font-size: large;
+    margin-left: 10px;
+  display: inline-block;
+}
+#span3{
+    text-align: center;
+    padding: 30px;
+    border: 20px;
+    font-size: large;
+    background-color: black;
+    color: white;
+}
+::placeholder{
+    display: a;
+}
